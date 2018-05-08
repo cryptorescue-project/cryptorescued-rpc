@@ -1,6 +1,6 @@
 {
-  "name": "ravend-rpc",
-  "description": "Ravencoin Client Library to connect to Ravencoin via RPC",
+  "name": "cryptorescued-rpc",
+  "description": "CryptoRescue Client Library to connect to CryptoRescue via RPC",
   "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
@@ -25,12 +25,12 @@
     }
   ],
   "keywords": [
-    "ravencoin",
+    "cryptorescue",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/underdarkskies/ravend-rpc"
+    "url": "https://github.com/cryptorescue-project/cryptorescued-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -49,7 +49,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/underdarkskies/ravend-rpc/issues"
+    "url": "https://github.com/cryptorescue-project/cryptorescued-rpc/issues"
   },
-  "homepage": "https://github.com/underdarkskies/ravend-rpc"
+  "homepage": "https://github.com/cryptorescue-project/cryptorescued-rpc"
 }
